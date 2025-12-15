@@ -9,7 +9,7 @@ Pynqv3.1 (image file),
 Vivado 2024.1,
 Vitis 2024.1.
 
-I was able to beat the raw processign which is the computational part when compared it to my laptop processor (Ultra 5 125H) but it comes to the overall end to end performance the python over-head takes much longer in the dual-core arm processor which slows up the entire process. This project clealy shows the raw performance potential of FPGA in parallel processing with much less power draw.
+I was able to beat the raw processing which is the computational part when compared it to my laptop processor (Ultra 5 125H) but it comes to the overall end to end performance the python over-head takes much longer in the dual-core arm processor which slows up the entire process. This project clealy shows the raw performance potential of FPGA in parallel processing with much less power draw.
 
                  /\____/\
                 > •   • <

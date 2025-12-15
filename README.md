@@ -8,3 +8,6 @@ Software Used:
 Pynqv3.1 (image file)
 Vivado 2024.1
 Vitis 2024.1
+
+                 /\____/\
+                > •   • <
